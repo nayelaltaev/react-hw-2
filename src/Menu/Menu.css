@@ -1,0 +1,11 @@
+.menu a{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    padding-right: 40px;
+    color: black;
+  }
+  
+  .menu{
+    padding-top: 18px;
+    padding-left: 50px;
+  }

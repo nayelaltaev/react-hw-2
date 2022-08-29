@@ -1,0 +1,23 @@
+.header {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding-top: 20px;
+  background-color: #fff;
+  height: 25px;
+}
+
+.icons {
+  padding-left: 250px;
+  padding-top: 16px;
+}
+
+.logo img {
+  height: auto;
+  width: 87px;
+  padding-left: 120px;
+}
+
+.icons img {
+  width: 20px;
+  padding-right: 28px;
+}
